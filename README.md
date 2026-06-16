@@ -15,7 +15,7 @@ Today, we are going to investigate this with the Runge-Kutta 4th Order Numerical
 
 Let's imagine 3 separate, 2-dimensional rectangles. The red rectangle, is computed algebraically, with mass $m_{r} = 1.0 kg$
 
-The blue and orange rectangle will be computed using 4th Order RK-4, with mass $m_{b} = 1.0 kg$ $\hspace{2.5cm}$ and $\hspace{2.5cm}$ mass $m_{o} = 2.0 kg$
+The blue and orange rectangle will be computed using 4th Order RK-4, with mass $m_{b} = 1.0 kg$ $\hspace{0.5cm}$ and $\hspace{0.5cm}$ mass $m_{o} = 2.0 kg$
 
 I'd like to demonstrate two things with these graphs
 
