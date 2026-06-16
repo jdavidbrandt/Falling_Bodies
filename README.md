@@ -39,7 +39,7 @@ This mathematical statement is saying the Force being exerted upon an object, is
 
 Plugging in $F$ $\hspace{1cm}$ from above
 
-$\large \frac{m}{a} = \frac{GMm}{R^{2}}$
+$\large ma = \frac{GMm}{R^{2}}$
 
 As one can see, dividing both sides by $m$
 
