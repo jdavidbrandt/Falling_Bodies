@@ -9,7 +9,7 @@ $\large y(t)=y_{0}+ \nu_{0}t + \frac{1}{2}at^{2}$
 
 where, on Earth, 
 
-$a = -g = -9.81 \frac{m}{s^{2}}$
+$\large a = -g = -9.81 \frac{m}{s^{2}}$
 
 Today, we are going to investigate this with the Runge-Kutta 4th Order Numerical Method
 
