@@ -1,5 +1,6 @@
 FROM mcr.microsoft.com/devcontainers/cpp:1-ubuntu-24.04
 LABEL maintainer="Joshua Brandt <jdbrandt92@gmail.com>"
+ARG KEY_NAME="id_ed25519"
 
 ARG REINSTALL_CMAKE_VERSION_FROM_SOURCE="3.22.2"
 
