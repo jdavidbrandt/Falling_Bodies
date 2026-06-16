@@ -71,11 +71,11 @@ Let's see what happens shrinking the step size to h = 0.1, and 0.00001
 
 ![til](./out/build/linux-default/plots/delta01.png)
 
-![til](./out/build/linux-default/plots/delta01.png)
+![til](./out/build/linux-default/plots/delta01_0.png)
 
-![til](./out/build/linux-default/plots/delta01.png)
+![til](./out/build/linux-default/plots/delta01_1.png)
 
-![til](./out/build/linux-default/plots/delta01.png)
+![til](./out/build/linux-default/plots/delta01_2.png)
 
 ![til](./out/build/linux-default/plots/falling01.gif)
 
@@ -83,11 +83,11 @@ Let's see what happens shrinking the step size to h = 0.1, and 0.00001
 
 ![til](./out/build/linux-default/plots/delta000001.png)
 
-![til](./out/build/linux-default/plots/delta000001.png)
+![til](./out/build/linux-default/plots/delta000001_0.png)
 
-![til](./out/build/linux-default/plots/delta000001.png)
+![til](./out/build/linux-default/plots/delta000001_1.png)
 
-![til](./out/build/linux-default/plots/delta000001.png)
+![til](./out/build/linux-default/plots/delta000001_2.png)
 
 ![til](./out/build/linux-default/plots/falling000001.gif)
 
