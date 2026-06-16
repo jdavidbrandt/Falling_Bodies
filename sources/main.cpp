@@ -115,8 +115,8 @@ int main(void)
     //used to plot algebraic solution
     std::vector<double> red_cube_time_vals;
     std::vector<double> red_cube_pos_vals;
-
     const int x_offset = 10;
+
     while (!WindowShouldClose())
     {
         BeginDrawing();
@@ -156,6 +156,9 @@ int main(void)
 
         EndMode2D();
         EndDrawing();
+        if(elapsed > 10){
+            break;
+        }
         
     }
 
