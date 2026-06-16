@@ -3,7 +3,7 @@
 Investigation of falling bodies using raylib, and my own RK4 Numerical Integrator
 ====================================================================================
 
-We all know the algebraic form of equations of one-dimensinal, falling motion: $y(t) = y_{0} + \nu_{0}*t + \frac{1}{2}* a * t^{2}$
+We all know the algebraic form of equations of one-dimensinal, falling motion: $y(t)=y_{0}+ \nu_{0}t + \frac{1}{2}at^{2}$
 
 where, on Earth, $a = -g = -9.81 \frac{m}{s^{2}}$
 
