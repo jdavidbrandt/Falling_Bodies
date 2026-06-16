@@ -31,7 +31,7 @@ Isaac Newton proved that
 
 $\large F = ma$
 
-and, more importantly for the planet mass M, and in our case, much smaller mass m, with universal gravitational constant G, and the radius of the planet, R
+and, more importantly for the planet mass M, and in our case, much smaller mass m, with universal gravitational constant G, and the distance you are from the center of the planet, R
 
 $\large F = \frac{GMm}{R^{2}}$
 
