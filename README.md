@@ -37,9 +37,9 @@ $\large F = \frac{GMm}{R^{2}}$
 
 This mathematical statement is saying the Force being exerted upon an object, is the right side of the equation, and that's why this object falls toward the planet.
 
-But pluggin in $F$ \hspace{1cm} from above
+Plugging in $F$ $\hspace{1cm}$ from above
 
-$\large \frac{m}{a} = \frac{GMm}{R^{2}}
+$\large \frac{m}{a} = \frac{GMm}{R^{2}}$
 
 As one can see, dividing both sides by $m$
 
