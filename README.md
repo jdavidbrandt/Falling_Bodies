@@ -43,7 +43,9 @@ $\large \frac{m}{a} = \frac{GMm}{R^{2}}
 
 As one can see, dividing both sides by $m$
 
-$\large a = \frac{GM}{R^{2}} = -9.81 m/s^{2}$
+Where $a = \ddot{y}$
+
+$\large \ddot{y} = \frac{GM}{R^{2}} = -9.81 m/s^{2}$
 
 Note: One meter here in this world is one pixel, so we are looking at an object that is 10 meters wide, and 10 meters tall, from relatively far away
 
