@@ -91,6 +91,8 @@ Let's see what happens shrinking the step size to h = 0.1, and 0.00001
 
 ![til](./out/build/linux-default/plots/falling000001.gif)
 
-We can see by zooming in, once the step size get's really small, the RK-4 Numerical Method is a great tool for predicting solutions.
+We can see two things by zooming in. One, the step size get's really small, the RK-4 Numerical Method is a great tool for predicting solutions.
+
+And two, the orange and blue rectangle of different masses, both using RK-4 integration, are predicting the exact same results!
 
 
