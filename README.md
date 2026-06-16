@@ -25,7 +25,7 @@ I'd like to demonstrate two things with these graphs
 
 ## 1: Smaller masses are negligable in a planet's gravitational field
 
-Therefore, all objects that are relatively "small" (non-planet or moon-sized) fall at the same rate. Let's investigate what this depends on.
+Therefore, all objects that have relatively "small" mass (non-planet or moon-sized) fall at the same rate. Let's investigate what this depends on.
 
 Isaac Newton proved that
 
