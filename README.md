@@ -3,9 +3,13 @@
 Investigation of falling bodies using raylib, and my own RK4 Numerical Integrator
 ====================================================================================
 
-We all know the algebraic form of equations of one-dimensinal, falling motion: $y(t)=y_{0}+ \nu_{0}t + \frac{1}{2}at^{2}$
+We all know the algebraic form of equations of one-dimensinal, falling motion: 
 
-where, on Earth, $a = -g = -9.81 \frac{m}{s^{2}}$
+$\large y(t)=y_{0}+ \nu_{0}t + \frac{1}{2}at^{2}$
+
+where, on Earth, 
+
+$a = -g = -9.81 \frac{m}{s^{2}}$
 
 Today, we are going to investigate this with the Runge-Kutta 4th Order Numerical Method
 
@@ -36,6 +40,8 @@ $\frac{m}{a} = \frac{GMm}{R^{2}}
 As one can see, dividing both sides by $m$
 
 $a = \frac{GM}{R^{2}} = -9.81 m/s^{2}$
+
+Note: One meter here in this world is one pixel, so we are looking at an object that is 10 meters wide, and 10 meters tall, from relatively far away
 
 ## 2: With smaller step-sizes, RK-4 is a very powerful method of Numerical Integration for smooth, continous solutions
 
