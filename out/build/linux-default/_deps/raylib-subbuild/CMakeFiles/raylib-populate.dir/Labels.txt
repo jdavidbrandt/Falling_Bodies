@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/workspaces/raylib_cube/out/build/linux-default/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
