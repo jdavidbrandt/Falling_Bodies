@@ -53,17 +53,17 @@ Note: One meter here in this world is one pixel, so we are looking at an object 
 
 ### h = 1
 
-![til](./out/build/linux-default/plots/delta1.png)
+![til](.plots/delta1.png)
 
-![til](./out/build/linux-default/plots/delta1_0.png)
+![til](./plots/delta1_0.png)
 
 Zooming in, one can see that the RK-4 prediction is pretty far off from what it's supposed to be
 
-![til](./out/build/linux-default/plots/delta1_1.png)
+![til](./plots/delta1_1.png)
 
-![til](./out/build/linux-default/plots/delta1_2.png)
+![til](./plots/delta1_2.png)
 
-![til](./out/build/linux-default/plots/falling1.gif)
+![til](./plots/falling1.gif)
 
 But we can tell that these objects of different masses fall at the same time (they are in a vacuum)
 
@@ -71,27 +71,27 @@ Let's see what happens shrinking the step size to h = 0.1, and 0.00001
 
 ### h = 0.1
 
-![til](./out/build/linux-default/plots/delta01.png)
+![til](./plots/delta01.png)
 
-![til](./out/build/linux-default/plots/delta01_0.png)
+![til](./plots/delta01_0.png)
 
-![til](./out/build/linux-default/plots/delta01_1.png)
+![til](./plots/delta01_1.png)
 
-![til](./out/build/linux-default/plots/delta01_2.png)
+![til](./plots/delta01_2.png)
 
-![til](./out/build/linux-default/plots/falling01.gif)
+![til](./plots/falling01.gif)
 
 ### h = 0.00001
 
-![til](./out/build/linux-default/plots/delta000001.png)
+![til](./plots/delta000001.png)
 
-![til](./out/build/linux-default/plots/delta000001_0.png)
+![til](./plots/delta000001_0.png)
 
-![til](./out/build/linux-default/plots/delta000001_1.png)
+![til](./plots/delta000001_1.png)
 
-![til](./out/build/linux-default/plots/delta000001_2.png)
+![til](./plots/delta000001_2.png)
 
-![til](./out/build/linux-default/plots/falling000001.gif)
+![til](./plots/falling000001.gif)
 
 We can see two things by zooming in. One, the step size get's really small, the RK-4 Numerical Method is a great tool for predicting solutions.
 
